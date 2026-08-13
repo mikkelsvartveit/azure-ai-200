@@ -2,8 +2,8 @@
 
 # Change the values of these variables as needed
 
-rg="<your-resource-group-name>"  # Resource Group name
-location="<your-azure-region>"   # Azure region for the resources
+rg="rg-ai-200"  # Resource Group name
+location="norwayeast"   # Azure region for the resources
 
 # ============================================================================
 # DON'T CHANGE ANYTHING BELOW THIS LINE.
