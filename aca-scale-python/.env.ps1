@@ -1,0 +1,7 @@
+$env:RESOURCE_GROUP = "rg-aca-scale"
+$env:ACA_ENVIRONMENT = "aca-env-8de9649f"
+$env:CONTAINER_APP_NAME = "agent-api"
+$env:CONTAINER_APP_FQDN = "agent-api.agreeableflower-027f01ff.westeurope.azurecontainerapps.io"
+$env:CONTAINER_APP_URL = "https://agent-api.agreeableflower-027f01ff.westeurope.azurecontainerapps.io"
+$env:CONTAINER_IMAGE = "agent-api:v1"
+$env:LOCATION = "westeurope"
